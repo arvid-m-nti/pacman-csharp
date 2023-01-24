@@ -1,0 +1,10 @@
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\obj\Debug\PacmanGame2.0.csprojAssemblyReference.cache
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\obj\Debug\PacmanGame2._0.PacmanGame.resources
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\obj\Debug\PacmanGame2._0.Properties.Resources.resources
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\obj\Debug\PacmanGame2.0.csproj.GenerateResource.cache
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\obj\Debug\PacmanGame2.0.csproj.CoreCompileInputs.cache
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\bin\Debug\PacmanGame2.0.exe.config
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\bin\Debug\PacmanGame2.0.exe
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\bin\Debug\PacmanGame2.0.pdb
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\obj\Debug\PacmanGame2.0.exe
+C:\Users\arvid.maxvall\source\repos\PacmanGame2.0\PacmanGame2.0\obj\Debug\PacmanGame2.0.pdb
